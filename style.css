@@ -18,3 +18,15 @@ ul, a {
     display: flex;
     gap: 15px;
 }
+
+.info {
+    background-color: #1f2937;
+    display: flex;
+    color: white;
+    padding: 100px;
+    justify-content: space-between;
+}
+
+.about {
+    
+}
