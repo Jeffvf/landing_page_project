@@ -71,3 +71,24 @@ figcaption {
     font-weight: bold;
     font-size: 24px;
 }
+
+.sign_up {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign_up_text {
+    display: flex;
+    background-color:ivory;
+    width: 300px;
+    padding: 25px 250px;
+    height: auto;
+    border-radius: 5px;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    text-align: justify;
+    background-color: #1f2937;
+    color: white;
+}
