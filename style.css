@@ -32,6 +32,17 @@ ul {
 }
 .characters {
     text-align: center;
+    text-decoration: underline;
+    color: grey;
+}
+
+.characters h2{
+    font-size: 32px;
+}
+
+.figures {
+    color:grey;
+    font-size: large;
 }
 
 .container {
@@ -70,6 +81,8 @@ figcaption {
 .author{
     font-weight: bold;
     font-size: 24px;
+    align-self: flex-end;
+    margin-right: 100px;
 }
 
 .sign_up {
