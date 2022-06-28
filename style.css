@@ -94,6 +94,11 @@ figcaption {
 
 }
 
+.button {
+    height: 50px;
+    width: auto;
+}
+
 p {
     font-size: 21px;
 }
